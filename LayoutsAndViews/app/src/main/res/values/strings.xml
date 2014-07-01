@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutsAndViews</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_other">Other Activity</string>
+    <string name="topLeft_textView">Top Left Text</string>
+    <string name="topRight_textView">Top Right Text</string>
+    <string name="bottomCenter_textView">Bottom Center Text View</string>
+    <string name="changeButton_text">Change</string>
+    <string name="changeable_textView">Changeable this text</string>
+    <string name="static_textView">Static Text</string>
+    <string name="activity_other">Other Activity</string>
+    <string name="activity_exit">Exit</string>
+    <string name="action_close">Close Activity</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+
+</resources>

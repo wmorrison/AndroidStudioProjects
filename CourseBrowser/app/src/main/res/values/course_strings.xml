@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Course titles and descriptions  -->
+    <string name="android_fragments_title">Improving User Interface Design with Android Fragments</string>
+    <string name="android_fragments_title_short">Fragments</string>
+    <string name="android_fragments_description">Fragments no w replace Activities as the primary...</string>
+
+    <string name="android_intents_title">Android Programming with Intents</string>
+    <string name="android_intents_title_short">Intents</string>
+    <string name="android_intents_description">Virtually all interactivity between Androids components...</string>
+
+    <string name="android_action_bar_title">Improving UI Interaction with Android ActionBar</string>
+    <string name="android_action_bar_title_short">ActionBar</string>
+    <string name="android_action_bar_description">The ActionBar incorporates a variety of previously...</string>
+
+    <string name="android_photo_video_title">Android Photo and Video Programming</string>
+    <string name="android_photo_video_title_short">Photo/Video</string>
+    <string name="android_photo_video_description">In this course we discuss how to capitalize on the...</string>
+
+    <string name="android_4_features_title">Android 4.0 New Features</string>
+    <string name="android_4_features_title_short">Android 4</string>
+    <string name="android_4_features_description">Android 4.0 includes a number of new developer features...</string>
+
+    <string name="android_location_apps_title">Android Location-Based Apps</string>
+    <string name="android_location_apps_title_short">Location</string>
+    <string name="android_location_apps_description">In this course we cover the wide range of location-based...</string>
+
+    <string name="android_async_services_title">Android Async Programming and Services</string>
+    <string name="android_async_services_title_short">Services</string>
+    <string name="android_async_services_description">In this course you will learn how to use Android...</string>
+
+
+</resources>
