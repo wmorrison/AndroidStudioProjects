@@ -3,31 +3,31 @@
     <!-- Course titles and descriptions  -->
     <string name="android_fragments_title">Improving User Interface Design with Android Fragments</string>
     <string name="android_fragments_title_short">Fragments</string>
-    <string name="android_fragments_description">Fragments no w replace Activities as the primary...</string>
+    <string name="android_fragments_description">Fragments now replace Activities as the primary canvas for UI design. Fragments address a number of key UI design issues. In this course we discuss how to use Fragments to improve your apps adaptability to device differences, provide better UI modularization, and much more.</string>
 
     <string name="android_intents_title">Android Programming with Intents</string>
     <string name="android_intents_title_short">Intents</string>
-    <string name="android_intents_description">Virtually all interactivity between Androids components...</string>
+    <string name="android_intents_description">Virtually all interactivity between Androids components occurs throug a special messaging concept known as intents. In this course you will learn how to work effectively with and capitalize on the many capabilities of the Android platform provided through intents.</string>
 
     <string name="android_action_bar_title">Improving UI Interaction with Android ActionBar</string>
     <string name="android_action_bar_title_short">ActionBar</string>
-    <string name="android_action_bar_description">The ActionBar incorporates a variety of previously...</string>
+    <string name="android_action_bar_description">The ActionBar incorporates a variety of previously disparate user interaction concepts into a single control. TheActionBar provides one-stop shopping for menu management, home and back behaviour, tabbed displays, screen layout adaptability, and many more user interaction concepts.</string>
 
     <string name="android_photo_video_title">Android Photo and Video Programming</string>
     <string name="android_photo_video_title_short">Photo/Video</string>
-    <string name="android_photo_video_description">In this course we discuss how to capitalize on the...</string>
+    <string name="android_photo_video_description">In this course we discuss how to capitalize on the Android camera within your apps to capture still photos and video. We look at both the simple and the more detailed scenario of direct camera control.</string>
 
     <string name="android_4_features_title">Android 4.0 New Features</string>
     <string name="android_4_features_title_short">Android 4</string>
-    <string name="android_4_features_description">Android 4.0 includes a number of new developer features...</string>
+    <string name="android_4_features_description">Android 4.0 includes a number of new developer features that improve the ability for applications to support a wide variety of devices and enhance developer productivity. In this course we will examine many of these features including Android user interface Fragments, the ActionBar, networking, features, and the new Calendar API.</string>
 
     <string name="android_location_apps_title">Android Location-Based Apps</string>
     <string name="android_location_apps_title_short">Location</string>
-    <string name="android_location_apps_description">In this course we cover the wide range of location-based...</string>
+    <string name="android_location_apps_description">In this course we cover the wide range of location capabilities of the Android platform including determining user location, power managements, translating location data into human-readable street addresses, and much more.</string>
 
     <string name="android_async_services_title">Android Async Programming and Services</string>
     <string name="android_async_services_title_short">Services</string>
-    <string name="android_async_services_description">In this course you will learn how to use Android...</string>
+    <string name="android_async_services_description">In this course you will learn how to use Android services and asynchronous processing to create apps that provide a more repsonsive UX. Topics covered include Android Service, background processing, threading, async tasks, Started Services, Foreground Services, Notifications, Android Service lifecycle, and ExecutorService.</string>
 
 
 </resources>
