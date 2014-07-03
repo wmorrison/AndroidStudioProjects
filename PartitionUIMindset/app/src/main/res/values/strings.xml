@@ -4,5 +4,20 @@
     <string name="app_name">PartitionUIMindset</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="imageViewLogoName">StudentParentPortal</string>
+    <string name="android_fragments_title">Improving User Interface Design with Android Fragments</string>
+    <string name="android_intents_title">Android Programming with Intents</string>
+    <string name="android_action_bar_title">Improving UI Interaction with Android ActionBar</string>
+    <string name="android_photo_video_title">Android Photo and Video Programming</string>
+    <string name="android_4_features_title">Android 4.0 New Features</string>
+    <string name="android_location_apps_title">Android Location-Based Apps</string>
+    <string name="android_async_services_title">Android Async Programming and Services</string>
+    <string name="android_fragments_description">android_fragments_description</string>
+    <string name="android_intents_description">android_intents_description</string>
+    <string name="android_action_bar_description">android_action_bar_description</string>
+    <string name="android_photo_video_description">android_photo_video_description</string>
+    <string name="android_4_features_description">android_4_features_description</string>
+    <string name="android_location_apps_description">android_location_apps_description</string>
+    <string name="android_async_services_description">android_async_services_description</string>
 
 </resources>
