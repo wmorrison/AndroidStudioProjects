@@ -1,0 +1,21 @@
+<LinearLayout
+    android:id="@+id/rootLayout"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <fragment
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:name="com.pluralsight.partitionuimindset.TitlesFragment"
+        android:id="@+id/titlesFragment"
+        android:layout_weight="1" />
+
+    <fragment
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:name="com.pluralsight.partitionuimindset.DescriptionFragment"
+        android:id="@+id/descriptionFragment"
+        android:layout_weight="1" />
+</LinearLayout>
