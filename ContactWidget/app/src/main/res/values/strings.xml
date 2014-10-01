@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">_Fit-Contacts</string>
+    <string name="widget_btn_desc">Widget</string>
+    <string name="name_badge_desc">Contact Name</string>
+    <string name="widget_badge_text">New Contact</string>
+    <string name="add_widget">Add widget</string>
+    <string name="location_text">Mobile</string>
+    <string name="location_badge_desc">Phone Type</string>
+</resources>

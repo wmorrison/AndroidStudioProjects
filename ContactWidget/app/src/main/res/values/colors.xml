@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="badge">#111111</color>
+    <color name="name_badge_text">#ffffff</color>
+    <color name="location_badge">#000000</color>
+</resources>
