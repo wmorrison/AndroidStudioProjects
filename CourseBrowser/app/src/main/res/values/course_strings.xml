@@ -7,7 +7,7 @@
 
     <string name="android_intents_title">Android Programming with Intents</string>
     <string name="android_intents_title_short">Intents</string>
-    <string name="android_intents_description">Virtually all interactivity between Androids components occurs throug a special messaging concept known as intents. In this course you will learn how to work effectively with and capitalize on the many capabilities of the Android platform provided through intents.</string>
+    <string name="android_intents_description">Virtually all interactivity between Androids components occurs through a special messaging concept known as intents. In this course you will learn how to work effectively with and capitalize on the many capabilities of the Android platform provided through intents.</string>
 
     <string name="android_action_bar_title">Improving UI Interaction with Android ActionBar</string>
     <string name="android_action_bar_title_short">ActionBar</string>
